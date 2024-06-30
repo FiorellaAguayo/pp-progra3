@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "marca": "hp",
+        "precio": "500",
+        "tipo": "cartucho",
+        "modelo": "664",
+        "color": "negro",
+        "stock": 88
+    },
+    {
+        "id": 2,
+        "marca": "canon",
+        "precio": "800",
+        "tipo": "cartucho",
+        "modelo": "pg512",
+        "color": "negro",
+        "stock": 95
+    },
+    {
+        "id": 3,
+        "marca": "dell",
+        "precio": "1000",
+        "tipo": "cartucho",
+        "modelo": "xp",
+        "color": "negro",
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "marca": "dell",
+        "precio": "1500",
+        "tipo": "impresora",
+        "modelo": "2775",
+        "color": "blanco",
+        "stock": 1485
+    },
+    {
+        "id": 5,
+        "marca": "brother",
+        "precio": "1200",
+        "tipo": "impresora",
+        "modelo": "l3210",
+        "color": "negro",
+        "stock": 1466
+    },
+    {
+        "id": 6,
+        "marca": "canon",
+        "precio": "1200",
+        "tipo": "impresora",
+        "modelo": "l606",
+        "color": "blanco",
+        "stock": 1500
+    },
+    {
+        "id": 7,
+        "marca_impresora": "hp",
+        "marca_cartucho": "canon",
+        "modelo_impresora": "664",
+        "modelo_cartucho": "pg512",
+        "precio_total": 1300,
+        "tipo": "conjunto"
+    }
+]
